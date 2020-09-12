@@ -26,7 +26,7 @@
     "fetch-openapi": "^0.6.7",
     "fs-extra": "^8.1.0",
     "isomorphic-fetch": "^2.2.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "yamljs": "^0.3.0"
   }
 }
